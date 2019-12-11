@@ -63,6 +63,8 @@
 <remove-project name="device/linaro/hikey" />
 <remove-project name="device/linaro/hikey-kernel" /> 
 <remove-project name="platform/external/google-api-services-storage" />
+<remove-project name="platform/external/libcups" />
+<remove-project name="platform/external/libhevc" />
 <remove-project name="platform/external/python/Pillow" />
 <remove-project name="platform/external/python/appdirs" />
 <remove-project name="platform/external/python/cachetools" />
@@ -157,6 +159,8 @@
 <project path="bionic" name="android_bionic" remote="stag" />
 <project path="bootable/recovery" name="android_bootable_recovery" remote="stag" />
 <project path="device/stag/sepolicy" name="android_device_stag_sepolicy" remote="stag" />
+<project path="external/libcups" name="android_external_libcups" remote="stag" />
+<project path="external/libhevc" name="android_external_libhevc" remote="stag" />
 <project path="external/perfetto" name="android_external_perfetto" remote="stag" />
 <project path="external/DUI" name="android_external_DUI" remote="stag" />
 <project path="external/selinux" name="android_external_selinux" remote="stag" />
