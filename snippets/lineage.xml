@@ -7,6 +7,14 @@
            review="review.lineageos.org" />
 
 <!-- Tracking the following -->
+<project path="external/chromium-libpac" name="android_external_chromium-libpac" remote="los" />
+<project path="external/libcxx" name="android_external_libcxx" remote="los" />
+<project path="external/libjpeg-turbo" name="android_external_libjpeg-turbo" remote="los" />
+<project path="external/sqlite" name="android_external_sqlite" remote="los" />
+<project path="packages/apps/ManagedProvisioning" name="android_packages_apps_ManagedProvisioning" remote="los" />
+<project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="los" />
+<project path="packages/providers/TvProvider" name="android_packages_providers_TvProvider" remote="los" />
+<project path="external/v8" name="android_external_v8" remote="los" />
 <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="los" />
 <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="los" />
 <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="los" />
