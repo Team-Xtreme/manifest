@@ -64,6 +64,7 @@
 <remove-project name="device/linaro/hikey-kernel" /> 
 <remove-project name="platform/external/google-api-services-storage" />
 <remove-project name="platform/external/chromium-libpac" />
+<remove-project name="platform/external/ImageMagick" />
 <remove-project name="platform/external/libcups" />
 <remove-project name="platform/external/libcxx" />
 <remove-project name="platform/external/libhevc" />
@@ -123,6 +124,7 @@
 <remove-project name="platform/system/core" />
 <remove-project name="platform/system/bt" />
 <remove-project name="platform/system/vold" />
+<remove-project name="platform/system/security" />
 <remove-project name="platform/system/sepolicy" />
 <remove-project name="platform/system/update_engine" />
 <remove-project name="platform/packages/providers/DownloadProvider" />
@@ -141,7 +143,8 @@
 <remove-project name="platform/packages/apps/Terminal" />
 <remove-project name="platform/packages/inputmethods/LatinIME" />
 <remove-project name="platform/packages/services/Telephony" /> 
-<remove-project name="platform/packages/services/Telecomm" /> 
+<remove-project name="platform/packages/services/BuiltInPrintService" />
+<remove-project name="platform/packages/services/Telecomm" />
 <remove-project name="platform/prebuilts/clang/host/linux-x86" />
 <remove-project name="platform/external/selinux" />
 
